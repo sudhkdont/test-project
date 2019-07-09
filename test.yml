@@ -1,0 +1,3 @@
+---
+- name: localhost
+  set_fact: this is only for test
